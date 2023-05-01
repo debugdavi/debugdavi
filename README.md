@@ -3,7 +3,7 @@
 
 
 <div> 
-    <img height="180em" alt="stats" src=" https://github-readme-stats.vercel.app/api?username=debugdavi&show_icons=true&theme=tokyonight">
+    <picture height="180em" alt="stats" src=" https://github-readme-stats.vercel.app/api?username=debugdavi&show_icons=true&theme=tokyonight">
     <img align="right" height="180em" alt="most-used-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugdavi&layout=compact&theme=tokyonight">
 
 </div>
