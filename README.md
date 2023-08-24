@@ -1,4 +1,4 @@
-### Olá, seja bem-vindos(as) ao meu Github <3
+### Olá, sejam bem-vindos(as) ao meu Github <3
 
 
 
