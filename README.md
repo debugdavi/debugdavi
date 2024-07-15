@@ -2,15 +2,8 @@
 
 
 ### Sistemas operacionais:
-![LAPTOP-OS](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![LAPTOP-OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![SMARTPHONE-OS](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-<div>
-<a href="https://github.com/debugdavi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugdavi&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=debugdavi&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-</div>
 
 ### Principais tecnologias:
 
